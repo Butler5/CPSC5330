@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4AF623C-647B-410A-9DC4-485F83C937F4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A70192CF-0B8E-4F2C-A209-585FE7F60FCD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClockApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A70192CF-0B8E-4F2C-A209-585FE7F60FCD - db43eb7357b0c103"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClockApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ClockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adambutler/Desktop/CPSC%205330%20-%20App%20Dev/Module4/ClockApp/ClockApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "A70192CF-0B8E-4F2C-A209-585FE7F60FCD - a93d7d8e5954245b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClockApp.ViewController.currentClockLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ClockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adambutler/Desktop/CPSC%205330%20-%20App%20Dev/Module4/ClockApp/ClockApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A70192CF-0B8E-4F2C-A209-585FE7F60FCD - 61b9aa53e9ad8057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClockApp.ViewController.currentClockLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ClockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adambutler/Desktop/CPSC%205330%20-%20App%20Dev/Module4/ClockApp/ClockApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "A70192CF-0B8E-4F2C-A209-585FE7F60FCD - 744164315755cd13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClockApp.ViewController.currentClockLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ClockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adambutler/Desktop/CPSC%205330%20-%20App%20Dev/Module4/ClockApp/ClockApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A70192CF-0B8E-4F2C-A209-585FE7F60FCD - e2562fbd1094f8d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClockApp.ViewController.currentClockLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ClockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adambutler/Desktop/CPSC%205330%20-%20App%20Dev/Module4/ClockApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A70192CF-0B8E-4F2C-A209-585FE7F60FCD - 68bc0241092440b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClockApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ClockApp.ViewController"
+                  moduleName = "ClockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adambutler/Desktop/CPSC%205330%20-%20App%20Dev/Module4/ClockApp/ClockApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "A70192CF-0B8E-4F2C-A209-585FE7F60FCD - 2a1aadc90ee43142"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClockApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ClockApp.ViewController&gt;"
+                  moduleName = "ClockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adambutler/Desktop/CPSC%205330%20-%20App%20Dev/Module4/ClockApp/ClockApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
